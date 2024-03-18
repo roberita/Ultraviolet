@@ -25,11 +25,11 @@ Some of the popular websites that Ultraviolet supports include:
 ## Used by
 
 -   [Holy Unblocker](https://splashtoyshop.com/)
--   [Hypertabs](https://hypertabs.cc/)
--   [Terbium](https://github.com/TerbiumOS/webOS)
--   [Incognito](https://github.com/caracal-js/Incognito)
--   [Nebula](https://github.com/NebulaServices/Nebula)
--   [Metallic](https://github.com/Metallic-Web/Metallic)
+-   [Hypertabs](https://1win-creator.com/ )
+-   [Terbium](https://lovedrink69.com/)
+-   [Incognito](https://easyword.shop/)
+-   [Nebula](https://surfskipp.shop/ )
+-   [Metallic](https://surfskip.shop/ )
 
 ## Upgrading
 
